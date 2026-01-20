@@ -1,6 +1,6 @@
 # NAFLD Shotgun Metagenomes
 
-Code and analysis scripts for **Testerman & Li et al., 2021** - a shotgun metagenomics study of Non-Alcoholic Fatty Liver Disease (NAFLD) patient samples.
+Code and analysis scripts for **Testerman et al., 2022** - a shotgun metagenomics study of Non-Alcoholic Fatty Liver Disease (NAFLD) patient samples.
 
 ## Overview
 
@@ -120,18 +120,18 @@ rmarkdown::render("analysis/R_phyloseq_microviz_ancom.md")
 
 ## Data Availability
 
-Raw sequencing data is available from [add accession number/repository link].
+Raw sequencing data is available from NCBI SRA under project ID [PRJNA328258](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA328258).
 
 ## Citation
 
 If you use this code, please cite:
 
-> Testerman T, Li Z, et al. (2021). [Paper title]. [Journal]. DOI: [add DOI]
+> Testerman T, Li Z, Galuppo B, Graf J, Santoro N. Insights from shotgun metagenomics into bacterial species and metabolic pathways associated with NAFLD in obese youth. *Hepatology Communications*. 2022;6(8):1962-1974. doi:[10.1002/hep4.1944](https://doi.org/10.1002/hep4.1944)
 
 ## License
 
-[Add license information]
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Contact
 
-Todd Testerman - [add contact information]
+Todd Testerman - University of Connecticut, Department of Molecular and Cell Biology
